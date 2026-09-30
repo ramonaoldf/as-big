@@ -99,7 +99,7 @@ let c = a0 + Big.TEN / Big.TWO; // Big(65)
 
 ## Examples
 
-There is a collection of examples in the [`examples`](https://github.com/ttulka/as-big/tree/main/examples/assembly) directory.
+There is a collection of examples in the [`examples`](https://github.com/ramonaoldf/as-big/tree/main/examples/assembly) directory.
 
 ## Build
 
@@ -128,4 +128,4 @@ node tests/<method>
 
 ## License
 
-[MIT](https://github.com/ttulka/as-big/blob/main/LICENSE)
+[MIT](https://github.com/ramonaoldf/as-big/blob/main/LICENSE)

@@ -1,8 +1,8 @@
 # Examples for `as-big` 
 
-A collection of examples for [`as-big`](https://github.com/ttulka/as-big).
+A collection of examples for [`as-big`](https://github.com/ramonaoldf/as-big).
 
-See contennt of [`assembly`](https://github.com/ttulka/as-big/tree/main/examples/assembly) directory.
+See contennt of [`assembly`](https://github.com/ramonaoldf/as-big/tree/main/examples/assembly) directory.
 
 ## Build
 
